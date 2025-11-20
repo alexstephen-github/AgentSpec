@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: AgentSpec
+  annotations:
+    github.com/project-slug: alexstephen-github/AgentSpec
+spec:
+  type: other
+  lifecycle: experimental
+  owner: user:guest
+  system: my-system
